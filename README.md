@@ -1,2 +1,2 @@
 # michael-jackson-tribute-page
-A Michael Jackson Tribute Page
+This is a Michael Jackson Tribute Page
